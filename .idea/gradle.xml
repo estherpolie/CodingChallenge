@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dependency" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dependency" />
+            <option value="$PROJECT_DIR$/dependency/application" />
+            <option value="$PROJECT_DIR$/dependency/inquiry" />
+            <option value="$PROJECT_DIR$/dependency/notifications" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/dependency-kotlin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/dependency-kotlin" />
+            <option value="$PROJECT_DIR$/dependency-kotlin/application" />
+            <option value="$PROJECT_DIR$/dependency-kotlin/inquiry" />
+            <option value="$PROJECT_DIR$/dependency-kotlin/notifications" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mapping" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mapping" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mapping-kotlin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mapping-kotlin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
